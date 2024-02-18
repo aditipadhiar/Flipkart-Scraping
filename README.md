@@ -1,6 +1,5 @@
 # Flipkart-Scraping
 Python script to scrape product data from Flipkart and save it as CSV. Easily search, scrape, and analyze product details.
-<<<<<<< HEAD
 
 ## Overview
 This Python script scrapes product information from the Flipkart website based on user input. It extracts details such as image URL, product name, product price and product rating from the search results page and stores them in a CSV file.
